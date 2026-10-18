@@ -1,53 +1,74 @@
 <p align="center">
-  <img alt="Node Studies" src=".github/banner.svg" width="250px"/>
-</p>
-
-<p align="center"> 
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/node-study?color=339933&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/node-study?color=339933&style=for-the-badge">
-  <a href="https://github.com/rafaelfachinelli">
-    <img alt="Developed by NAME" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-%339933?color=339933&style=for-the-badge">
-  </a>
-  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/node-study?color=339933&style=for-the-badge"/>
+  <img alt="Node Studies" src=".github/banner.svg" width="400px"/>
 </p>
 
 <p align="center">
- <a href="#eye_speech_bubble-preview">Preview</a> •
- <a href="#information_source-about">About</a> •
- <a href="#boy-author">Author</a> •
- <a href="#balance_scale-license">License</a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/node-studies?color=3498db&style=for-the-badge">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/node-studies?color=3498db&style=for-the-badge">
+  <a href="https://rafaelfachinelli.com">
+    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-3498db?style=for-the-badge">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-3498db?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="#information_source-about">About</a> •
+  <a href="#arrow_forward-run">Run</a> •
+  <a href="#hammer_and_wrench-technologies">Technologies</a> •
+  <a href="#boy-author">Author</a> •
+  <a href="#balance_scale-license">License</a>
 </p>
 
 ---
+
 ## :information_source: About
 
-Project to study Node.js.
+📚 A place for notes on Node.js concepts. The notes were never published here, so the repository only holds this README for now.
+
+Created in 2021.
 
 ---
-## :boy: **Author**
+
+## :arrow_forward: Run
+
+Nothing to run yet.
+
+---
+
+## :hammer_and_wrench: Technologies
 
 <div align="center">
 
-<a href="https://github.com/rafaelfachinelli">
- <img src="https://avatars0.githubusercontent.com/u/19878139?s=96&v=4" width="100px;" alt="Profile Photo Rafael Fachinelli"/>
- <br/>
- <sub><b>Rafael Fachinelli</b></sub>
+|Topics|
+|:---:|
+|[Node.js](https://nodejs.org/)|
+|[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
+
+</div>
+
+---
+
+## :boy: Author
+
+<div align="center">
+
+<a href="https://rafaelfachinelli.com">
+  <img src="https://github.com/rafaelfachinelli.png" width="100px" alt="Rafael Fachinelli"/>
+  <br/>
+  <sub><b>Rafael Fachinelli</b></sub>
 </a>
 
-Developed with ❤️ by Rafael Fachinelli 👋🏽 Contact me!
+Tech Lead and software engineer. Get in touch!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfachinelli)
-[![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/rafaelfachinelli)
-[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rafael.fachinelli@fatec.sp.gov.br)
+[![Portfolio](https://img.shields.io/badge/-rafaelfachinelli.com-3498db?style=flat-square&logo=googlechrome&logoColor=white)](https://rafaelfachinelli.com)
+[![LinkedIn](https://img.shields.io/badge/-Rafael_Fachinelli-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfachinelli/)
+[![GitHub](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![E-mail](https://img.shields.io/badge/-rafael.l.a.fachinelli@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.l.a.fachinelli@gmail.com)
 
 </div>
 
 ---
-## :balance_scale: **License**
 
-<div align="center">
+## :balance_scale: License
 
-Copyright © 2021 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
-This project is licensed by [MIT](./LICENSE).
-
-</div>
+This project is under the [MIT license](./LICENSE).
